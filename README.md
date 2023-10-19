@@ -1,4 +1,4 @@
-#<html>
+<html>
      <head>
 	<title>graphics</title>
      </head>
